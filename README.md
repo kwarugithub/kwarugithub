@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on as many projects as I can.
 - 📫 How to reach me:
 - through the following email addresses
-- staffroneochieng02@gmail.com and
-- jamesdan0102@gmail.com
+ staffroneochieng02@gmail.com and
+ jamesdan0102@gmail.com
 
 <!---
 kwarugithub/kwarugithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
